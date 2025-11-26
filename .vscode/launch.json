@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "pas_mobile_11PPLG_14",
+            "cwd": "pas_mobile_11PPLG_14",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pas_mobile_11PPLG_14 (profile mode)",
+            "cwd": "pas_mobile_11PPLG_14",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "pas_mobile_11PPLG_14 (release mode)",
+            "cwd": "pas_mobile_11PPLG_14",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
